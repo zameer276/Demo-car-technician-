@@ -1,0 +1,8 @@
+{
+  "name": "Apex Auto Garage",
+  "description": "Premium car repair and auto technician workshop website, featuring booking forms, interactive before & after gallery, and modular responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
